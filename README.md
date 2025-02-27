@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dtera
 - 👀 I’m interested in AI and any other technologies of computer 
-- 🌱 I’m currently learning feterated learning
+- 🌱 I’m currently exploring federated learning
 - 💞️ I’m working in Tencent Incorporation 
 - 📫 How to reach me ...
 
